@@ -1,5 +1,7 @@
 # GoogleEarthLittleProject
 
-## 把gml转化为kml文件
+##gml to kml
+ 
+tools: igraph , pykml
 
-比预期要麻烦不少
+version 1.0 achieves every point and line in gml files are transformed to kml files.Of course, the process lets gml files' information lose a lot, leaving points and edges. 
