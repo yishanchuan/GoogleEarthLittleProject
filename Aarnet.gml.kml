@@ -52,14 +52,6 @@
       <name>Aarnet.gml</name>
       <open>1</open>
       <Placemark>
-        <name>steak</name>
-        <styleUrl>#inline1</styleUrl>
-        <LineString>
-          <tessellate>1</tessellate>
-          <coordinates>151.20732,-33.86785,400 153.02809,-27.46794,400 149.12807,-35.28346,400 151.20732,-33.86785,400 146.8,-19.25,400 145.76667,-16.91667,400 153.02809,-27.46794,400 150.5,-23.38333,400 151.65,-30.51667,400 147.32941,-42.87936,400 149.12807,-35.28346,400 115.83333,-31.93333,400 115.83333,-31.93333,400 138.6,-34.93333,400 138.6,-34.93333,400 144.96332,-37.814,400 144.96332,-37.814,400 133.88333,-23.7,400 130.84185,-12.46113,400 </coordinates>
-        </LineString>
-      </Placemark>
-      <Placemark>
         <name>Sydney1</name>
         <LookAt>
           <longitude>151.20732</longitude>
@@ -381,6 +373,198 @@
           <gx:drawOrder>1</gx:drawOrder>
           <coordinates>130.84185,-12.46113,0</coordinates>
         </Point>
+      </Placemark>
+      <Placemark>
+        <name>PATH0</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>151.20732,-33.86785,0 149.12807,-35.28346,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH1</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>151.20732,-33.86785,0 151.20732,-33.86785,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH2</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>151.20732,-33.86785,0 153.02809,-27.46794,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH3</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>153.02809,-27.46794,0 151.20732,-33.86785,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH4</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>153.02809,-27.46794,0 153.02809,-27.46794,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH5</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>149.12807,-35.28346,0 149.12807,-35.28346,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH6</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>149.12807,-35.28346,0 144.96332,-37.814,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH7</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>151.20732,-33.86785,0 151.65,-30.51667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH8</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>151.20732,-33.86785,0 144.96332,-37.814,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH9</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>146.8,-19.25,0 145.76667,-16.91667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH10</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>146.8,-19.25,0 150.5,-23.38333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH11</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>153.02809,-27.46794,0 150.5,-23.38333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH12</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>147.32941,-42.87936,0 144.96332,-37.814,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH13</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>147.32941,-42.87936,0 144.96332,-37.814,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH14</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>115.83333,-31.93333,0 115.83333,-31.93333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH15</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>115.83333,-31.93333,0 138.6,-34.93333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH16</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>115.83333,-31.93333,0 138.6,-34.93333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH17</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>138.6,-34.93333,0 130.84185,-12.46113,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH18</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>138.6,-34.93333,0 138.6,-34.93333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH19</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>138.6,-34.93333,0 144.96332,-37.814,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH20</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>138.6,-34.93333,0 144.96332,-37.814,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH21</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>138.6,-34.93333,0 133.88333,-23.7,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH22</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>144.96332,-37.814,0 144.96332,-37.814,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH23</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>133.88333,-23.7,0 130.84185,-12.46113,0</coordinates>
+        </LineString>
       </Placemark>
     </Folder>
   </Document>
