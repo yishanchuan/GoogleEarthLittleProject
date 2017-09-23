@@ -6,16 +6,21 @@ from pykml.parser import Schema
 from pykml.factory import KML_ElementMaker as KML
 from pykml.factory import GX_ElementMaker as GX
 
-#scan files
-#gmlname="Aarnet.gml"
-def gmlToKml(gmlname):
-	g=Graph.Read_GML(gmlname)
 
-	#get List of longitude、latitude、ID、edge 
-	listLong=g.vs["Longitude"]
-	listLat=g.vs["Latitude"]
-	listLabel=g.vs["label"]
-	listEdge=g.get_edgelist()
+def gmlToKml(gmlname):
+	g=Graph.Read_GML(gmlpath+gmlname)
+	
+	#get List of longitude、latitude、ID、edge	
+	try:
+		listLong=g.vs["Longitude"]
+		listLat=g.vs["Latitude"]
+		listLabel=g.vs["label"]
+		listEdge=g.get_edgelist()
+	except Exception as e:
+		return None
+	except TypeError as te:
+		print 'TypeError:' % te
+		return None
 
 	#num of nodes
 	nodelen=len(listLong)
@@ -139,10 +144,12 @@ def gmlToKml(gmlname):
 		)
 
 	#write to gmlname.file
-	with open(gmlname+'.kml','w') as f:
+	print gmlname[:-4]
+	with open(kmlpath+gmlname[:-4]+'.kml','wt') as f:
 		f.write(etree.tostring(doc, pretty_print=True))
 
 #scan folder to get all '*.gml' files
-fndir=[fn for fn in os.listdir('.') if fn.endswith('.gml')]
-print fndir
+gmlpath='./example/gml/'
+kmlpath='./example/kml/'
+fndir=[fn for fn in os.listdir(gmlpath) if fn.endswith('.gml')]
 map(gmlToKml,fndir)

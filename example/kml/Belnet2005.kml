@@ -1,6 +1,6 @@
 <kml xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Aarnet2.gml.kml</name>
+    <name>Belnet2005.gml.kml</name>
     <Style id="inline">
       <LineStyle>
         <color>ff0000ff</color>
@@ -49,13 +49,13 @@
       </IconStyle>
     </Style>
     <Folder>
-      <name>Aarnet2.gml</name>
+      <name>Belnet2005.gml</name>
       <open>1</open>
       <Placemark>
-        <name>Sydney1</name>
+        <name>Geel</name>
         <LookAt>
-          <longitude>151.20732</longitude>
-          <latitude>-33.86785</latitude>
+          <longitude>5.0</longitude>
+          <latitude>51.16667</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -65,14 +65,14 @@
         <styleUrl>#pushpinm</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>151.20732,-33.86785,0</coordinates>
+          <coordinates>5.0,51.16667,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Brisbane2</name>
+        <name>Antwerpen</name>
         <LookAt>
-          <longitude>153.02809</longitude>
-          <latitude>-27.46794</latitude>
+          <longitude>4.41667</longitude>
+          <latitude>51.21667</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -82,14 +82,14 @@
         <styleUrl>#pushpinm</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>153.02809,-27.46794,0</coordinates>
+          <coordinates>4.41667,51.21667,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Canberra1</name>
+        <name>Leuven</name>
         <LookAt>
-          <longitude>149.12807</longitude>
-          <latitude>-35.28346</latitude>
+          <longitude>4.70093</longitude>
+          <latitude>50.87959</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -99,14 +99,14 @@
         <styleUrl>#pushpinm</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>149.12807,-35.28346,0</coordinates>
+          <coordinates>4.70093,50.87959,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Sydney2</name>
+        <name>Hasselt</name>
         <LookAt>
-          <longitude>151.20732</longitude>
-          <latitude>-33.86785</latitude>
+          <longitude>5.33333</longitude>
+          <latitude>50.93333</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -116,14 +116,14 @@
         <styleUrl>#pushpinm</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>151.20732,-33.86785,0</coordinates>
+          <coordinates>5.33333,50.93333,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Townsville</name>
+        <name>Brussel II B</name>
         <LookAt>
-          <longitude>146.8</longitude>
-          <latitude>-19.25</latitude>
+          <longitude>4.34878</longitude>
+          <latitude>50.85045</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -133,14 +133,14 @@
         <styleUrl>#pushpinm</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>146.8,-19.25,0</coordinates>
+          <coordinates>4.34878,50.85045,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Cairns</name>
+        <name>SFINX</name>
         <LookAt>
-          <longitude>145.76667</longitude>
-          <latitude>-16.91667</latitude>
+          <longitude>0.0</longitude>
+          <latitude>0.0</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -150,14 +150,14 @@
         <styleUrl>#pushpinm</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>145.76667,-16.91667,0</coordinates>
+          <coordinates>0.0,0.0,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Brisbane1</name>
+        <name>Brussel I B</name>
         <LookAt>
-          <longitude>153.02809</longitude>
-          <latitude>-27.46794</latitude>
+          <longitude>4.34878</longitude>
+          <latitude>50.85045</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -167,14 +167,14 @@
         <styleUrl>#pushpinm</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>153.02809,-27.46794,0</coordinates>
+          <coordinates>4.34878,50.85045,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Rockhampton</name>
+        <name>Brussel II A</name>
         <LookAt>
-          <longitude>150.5</longitude>
-          <latitude>-23.38333</latitude>
+          <longitude>4.34878</longitude>
+          <latitude>50.85045</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -184,14 +184,14 @@
         <styleUrl>#pushpinm</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>150.5,-23.38333,0</coordinates>
+          <coordinates>4.34878,50.85045,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Armidale</name>
+        <name>AMS-IX</name>
         <LookAt>
-          <longitude>151.65</longitude>
-          <latitude>-30.51667</latitude>
+          <longitude>0.0</longitude>
+          <latitude>0.0</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -201,14 +201,14 @@
         <styleUrl>#pushpinm</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>151.65,-30.51667,0</coordinates>
+          <coordinates>0.0,0.0,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Hobart</name>
+        <name>LINX</name>
         <LookAt>
-          <longitude>147.32941</longitude>
-          <latitude>-42.87936</latitude>
+          <longitude>0.0</longitude>
+          <latitude>0.0</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -218,14 +218,14 @@
         <styleUrl>#pushpinm</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>147.32941,-42.87936,0</coordinates>
+          <coordinates>0.0,0.0,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Canberra2</name>
+        <name>The Worldwide Internet</name>
         <LookAt>
-          <longitude>149.12807</longitude>
-          <latitude>-35.28346</latitude>
+          <longitude>0.0</longitude>
+          <latitude>0.0</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -235,14 +235,14 @@
         <styleUrl>#pushpinm</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>149.12807,-35.28346,0</coordinates>
+          <coordinates>0.0,0.0,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Perth1</name>
+        <name>BNIX</name>
         <LookAt>
-          <longitude>115.83333</longitude>
-          <latitude>-31.93333</latitude>
+          <longitude>0.0</longitude>
+          <latitude>0.0</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -252,14 +252,14 @@
         <styleUrl>#pushpinm</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>115.83333,-31.93333,0</coordinates>
+          <coordinates>0.0,0.0,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Perth2</name>
+        <name>Geant2</name>
         <LookAt>
-          <longitude>115.83333</longitude>
-          <latitude>-31.93333</latitude>
+          <longitude>0.0</longitude>
+          <latitude>0.0</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -269,14 +269,14 @@
         <styleUrl>#pushpinm</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>115.83333,-31.93333,0</coordinates>
+          <coordinates>0.0,0.0,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Adelaide1</name>
+        <name>Liege</name>
         <LookAt>
-          <longitude>138.6</longitude>
-          <latitude>-34.93333</latitude>
+          <longitude>5.57178</longitude>
+          <latitude>50.64119</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -286,14 +286,14 @@
         <styleUrl>#pushpinm</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>138.6,-34.93333,0</coordinates>
+          <coordinates>5.57178,50.64119,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Adelaide2</name>
+        <name>Brussel I A</name>
         <LookAt>
-          <longitude>138.6</longitude>
-          <latitude>-34.93333</latitude>
+          <longitude>4.34878</longitude>
+          <latitude>50.85045</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -303,14 +303,14 @@
         <styleUrl>#pushpinm</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>138.6,-34.93333,0</coordinates>
+          <coordinates>4.34878,50.85045,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Melbourne1</name>
+        <name>Brugge</name>
         <LookAt>
-          <longitude>144.96332</longitude>
-          <latitude>-37.814</latitude>
+          <longitude>3.22424</longitude>
+          <latitude>51.20892</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -320,14 +320,14 @@
         <styleUrl>#pushpinm</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>144.96332,-37.814,0</coordinates>
+          <coordinates>3.22424,51.20892,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Melbourne2</name>
+        <name>Gent</name>
         <LookAt>
-          <longitude>144.96332</longitude>
-          <latitude>-37.814</latitude>
+          <longitude>3.71667</longitude>
+          <latitude>51.05</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -337,14 +337,14 @@
         <styleUrl>#pushpinm</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>144.96332,-37.814,0</coordinates>
+          <coordinates>3.71667,51.05,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Alice Springs</name>
+        <name>Korthijk</name>
         <LookAt>
-          <longitude>133.88333</longitude>
-          <latitude>-23.7</latitude>
+          <longitude>3.26487</longitude>
+          <latitude>50.82803</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -354,14 +354,14 @@
         <styleUrl>#pushpinm</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>133.88333,-23.7,0</coordinates>
+          <coordinates>3.26487,50.82803,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Darwin</name>
+        <name>Mons</name>
         <LookAt>
-          <longitude>130.84185</longitude>
-          <latitude>-12.46113</latitude>
+          <longitude>3.95229</longitude>
+          <latitude>50.45413</latitude>
           <altitude>0</altitude>
           <heading>0</heading>
           <tilt>0</tilt>
@@ -371,7 +371,75 @@
         <styleUrl>#pushpinm</styleUrl>
         <Point>
           <gx:drawOrder>1</gx:drawOrder>
-          <coordinates>130.84185,-12.46113,0</coordinates>
+          <coordinates>3.95229,50.45413,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Charleroi</name>
+        <LookAt>
+          <longitude>4.43333</longitude>
+          <latitude>50.41667</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>1000</range>
+          <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#pushpinm</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>4.43333,50.41667,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Louvain-la-Neuve</name>
+        <LookAt>
+          <longitude>4.61443</longitude>
+          <latitude>50.66829</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>1000</range>
+          <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#pushpinm</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>4.61443,50.66829,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Namur</name>
+        <LookAt>
+          <longitude>4.82577</longitude>
+          <latitude>50.46992</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>1000</range>
+          <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#pushpinm</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>4.82577,50.46992,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arlon</name>
+        <LookAt>
+          <longitude>5.81667</longitude>
+          <latitude>49.68333</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>1000</range>
+          <gx:altitudeMode>relativeToGround</gx:altitudeMode>
+        </LookAt>
+        <styleUrl>#pushpinm</styleUrl>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>5.81667,49.68333,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -379,7 +447,7 @@
         <styleUrl>#inline1</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
-          <coordinates>151.20732,-33.86785,0 149.12807,-35.28346,0</coordinates>
+          <coordinates>5.0,51.16667,0 4.34878,50.85045,0</coordinates>
         </LineString>
       </Placemark>
       <Placemark>
@@ -387,7 +455,7 @@
         <styleUrl>#inline1</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
-          <coordinates>151.20732,-33.86785,0 151.20732,-33.86785,0</coordinates>
+          <coordinates>5.0,51.16667,0 4.34878,50.85045,0</coordinates>
         </LineString>
       </Placemark>
       <Placemark>
@@ -395,7 +463,7 @@
         <styleUrl>#inline1</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
-          <coordinates>151.20732,-33.86785,0 153.02809,-27.46794,0</coordinates>
+          <coordinates>4.41667,51.21667,0 4.34878,50.85045,0</coordinates>
         </LineString>
       </Placemark>
       <Placemark>
@@ -403,7 +471,7 @@
         <styleUrl>#inline1</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
-          <coordinates>153.02809,-27.46794,0 151.20732,-33.86785,0</coordinates>
+          <coordinates>4.41667,51.21667,0 4.34878,50.85045,0</coordinates>
         </LineString>
       </Placemark>
       <Placemark>
@@ -411,7 +479,7 @@
         <styleUrl>#inline1</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
-          <coordinates>153.02809,-27.46794,0 153.02809,-27.46794,0</coordinates>
+          <coordinates>4.70093,50.87959,0 4.34878,50.85045,0</coordinates>
         </LineString>
       </Placemark>
       <Placemark>
@@ -419,7 +487,7 @@
         <styleUrl>#inline1</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
-          <coordinates>149.12807,-35.28346,0 149.12807,-35.28346,0</coordinates>
+          <coordinates>4.70093,50.87959,0 4.34878,50.85045,0</coordinates>
         </LineString>
       </Placemark>
       <Placemark>
@@ -427,7 +495,7 @@
         <styleUrl>#inline1</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
-          <coordinates>149.12807,-35.28346,0 144.96332,-37.814,0</coordinates>
+          <coordinates>5.33333,50.93333,0 4.34878,50.85045,0</coordinates>
         </LineString>
       </Placemark>
       <Placemark>
@@ -435,7 +503,7 @@
         <styleUrl>#inline1</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
-          <coordinates>151.20732,-33.86785,0 151.65,-30.51667,0</coordinates>
+          <coordinates>5.33333,50.93333,0 4.34878,50.85045,0</coordinates>
         </LineString>
       </Placemark>
       <Placemark>
@@ -443,7 +511,7 @@
         <styleUrl>#inline1</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
-          <coordinates>151.20732,-33.86785,0 144.96332,-37.814,0</coordinates>
+          <coordinates>4.34878,50.85045,0 4.34878,50.85045,0</coordinates>
         </LineString>
       </Placemark>
       <Placemark>
@@ -451,7 +519,7 @@
         <styleUrl>#inline1</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
-          <coordinates>146.8,-19.25,0 145.76667,-16.91667,0</coordinates>
+          <coordinates>4.34878,50.85045,0 4.34878,50.85045,0</coordinates>
         </LineString>
       </Placemark>
       <Placemark>
@@ -459,7 +527,7 @@
         <styleUrl>#inline1</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
-          <coordinates>146.8,-19.25,0 150.5,-23.38333,0</coordinates>
+          <coordinates>4.34878,50.85045,0 5.57178,50.64119,0</coordinates>
         </LineString>
       </Placemark>
       <Placemark>
@@ -467,7 +535,7 @@
         <styleUrl>#inline1</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
-          <coordinates>153.02809,-27.46794,0 150.5,-23.38333,0</coordinates>
+          <coordinates>4.34878,50.85045,0 4.34878,50.85045,0</coordinates>
         </LineString>
       </Placemark>
       <Placemark>
@@ -475,7 +543,7 @@
         <styleUrl>#inline1</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
-          <coordinates>147.32941,-42.87936,0 144.96332,-37.814,0</coordinates>
+          <coordinates>4.34878,50.85045,0 3.22424,51.20892,0</coordinates>
         </LineString>
       </Placemark>
       <Placemark>
@@ -483,7 +551,7 @@
         <styleUrl>#inline1</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
-          <coordinates>147.32941,-42.87936,0 144.96332,-37.814,0</coordinates>
+          <coordinates>4.34878,50.85045,0 3.71667,51.05,0</coordinates>
         </LineString>
       </Placemark>
       <Placemark>
@@ -491,7 +559,7 @@
         <styleUrl>#inline1</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
-          <coordinates>115.83333,-31.93333,0 115.83333,-31.93333,0</coordinates>
+          <coordinates>4.34878,50.85045,0 3.26487,50.82803,0</coordinates>
         </LineString>
       </Placemark>
       <Placemark>
@@ -499,7 +567,7 @@
         <styleUrl>#inline1</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
-          <coordinates>115.83333,-31.93333,0 138.6,-34.93333,0</coordinates>
+          <coordinates>4.34878,50.85045,0 3.95229,50.45413,0</coordinates>
         </LineString>
       </Placemark>
       <Placemark>
@@ -507,7 +575,7 @@
         <styleUrl>#inline1</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
-          <coordinates>115.83333,-31.93333,0 138.6,-34.93333,0</coordinates>
+          <coordinates>4.34878,50.85045,0 4.43333,50.41667,0</coordinates>
         </LineString>
       </Placemark>
       <Placemark>
@@ -515,7 +583,7 @@
         <styleUrl>#inline1</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
-          <coordinates>138.6,-34.93333,0 130.84185,-12.46113,0</coordinates>
+          <coordinates>4.34878,50.85045,0 4.61443,50.66829,0</coordinates>
         </LineString>
       </Placemark>
       <Placemark>
@@ -523,7 +591,7 @@
         <styleUrl>#inline1</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
-          <coordinates>138.6,-34.93333,0 138.6,-34.93333,0</coordinates>
+          <coordinates>4.34878,50.85045,0 4.82577,50.46992,0</coordinates>
         </LineString>
       </Placemark>
       <Placemark>
@@ -531,7 +599,7 @@
         <styleUrl>#inline1</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
-          <coordinates>138.6,-34.93333,0 144.96332,-37.814,0</coordinates>
+          <coordinates>4.34878,50.85045,0 5.81667,49.68333,0</coordinates>
         </LineString>
       </Placemark>
       <Placemark>
@@ -539,7 +607,7 @@
         <styleUrl>#inline1</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
-          <coordinates>138.6,-34.93333,0 144.96332,-37.814,0</coordinates>
+          <coordinates>0.0,0.0,0 4.34878,50.85045,0</coordinates>
         </LineString>
       </Placemark>
       <Placemark>
@@ -547,7 +615,7 @@
         <styleUrl>#inline1</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
-          <coordinates>138.6,-34.93333,0 133.88333,-23.7,0</coordinates>
+          <coordinates>4.34878,50.85045,0 4.34878,50.85045,0</coordinates>
         </LineString>
       </Placemark>
       <Placemark>
@@ -555,7 +623,7 @@
         <styleUrl>#inline1</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
-          <coordinates>144.96332,-37.814,0 144.96332,-37.814,0</coordinates>
+          <coordinates>4.34878,50.85045,0 5.57178,50.64119,0</coordinates>
         </LineString>
       </Placemark>
       <Placemark>
@@ -563,7 +631,167 @@
         <styleUrl>#inline1</styleUrl>
         <LineString>
           <tessellate>1</tessellate>
-          <coordinates>133.88333,-23.7,0 130.84185,-12.46113,0</coordinates>
+          <coordinates>4.34878,50.85045,0 4.34878,50.85045,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH24</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>4.34878,50.85045,0 3.22424,51.20892,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH25</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>4.34878,50.85045,0 3.71667,51.05,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH26</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>4.34878,50.85045,0 3.26487,50.82803,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH27</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>4.34878,50.85045,0 3.95229,50.45413,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH28</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>4.34878,50.85045,0 4.43333,50.41667,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH29</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>4.34878,50.85045,0 4.61443,50.66829,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH30</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>4.34878,50.85045,0 4.82577,50.46992,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH31</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>4.34878,50.85045,0 5.81667,49.68333,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH32</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>4.34878,50.85045,0 0.0,0.0,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH33</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>4.34878,50.85045,0 0.0,0.0,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH34</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>4.34878,50.85045,0 0.0,0.0,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH35</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>4.34878,50.85045,0 0.0,0.0,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH36</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>4.34878,50.85045,0 4.34878,50.85045,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH37</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>0.0,0.0,0 4.34878,50.85045,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH38</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>0.0,0.0,0 4.34878,50.85045,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH39</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>0.0,0.0,0 4.34878,50.85045,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH40</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>0.0,0.0,0 4.34878,50.85045,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH41</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>0.0,0.0,0 4.34878,50.85045,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH42</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>0.0,0.0,0 4.34878,50.85045,0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>PATH43</name>
+        <styleUrl>#inline1</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>0.0,0.0,0 4.34878,50.85045,0</coordinates>
         </LineString>
       </Placemark>
     </Folder>
