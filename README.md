@@ -1,7 +1,8 @@
 # GoogleEarthLittleProject
 
 ##gml to kml
- 
-tools: igraph , pykml
+1. environment: python2 
 
-version 1.0 achieves every point and line in gml files are transformed to kml files.Of course, the process lets gml files' information lose a lot, leaving points and edges. 
+2. tools: igraph , pykml , pygeocoder
+
+3. warning: if you are in china, you need a staircase to use pygeocoder modual.
