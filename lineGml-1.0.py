@@ -28,8 +28,8 @@ def gmlToKml(gmlname):
 		if 'Attribute does not exist' in e:
 			try:
 				for i in range(labelLen):
-					listLong.append(labelToInfo(listLabel[i]))
-					listLat.append(labelToInfo(listLabel[i]))
+					listLong.append(labelToInfo(listLabel[i])[0])
+					listLat.append(labelToInfo(listLabel[i])[1])
 				if(len(listLat)!=labelLen or len(listLong)!=labelLen):
 					print 'can\'t search the addresses'
 					return None
